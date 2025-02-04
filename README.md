@@ -1,7 +1,7 @@
 
 # Getting Started
 ```
-[git clone Johnbalagtas/Easeapp-Capstone-Project](https://github.com/Johnbalagtas/technical-assessment)
+git clone Johnbalagtas/technical-assessment
 ```
 
 
